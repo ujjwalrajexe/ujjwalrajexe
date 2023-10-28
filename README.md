@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm Ujjwal Raj!
 
-- 🔭 I’m currently working on a my portfolio website.
-- 🌱 I’m currently learning javascript, react.js and DSA.
-- 👯 I’m looking to collaborate on frontend projects.
-- 🤔 I’m looking for help with React.js 
+- 🔭 I’m currently working to build my development skills.
+- 🌱 I’m also practicing DSA.
+- 👯 I’m looking to collaborate on projects.
+- 🤔 I’m a keen learner looking to develop new skills 
 - ⚡ Fun fact: Luffy will become the pirate king 👑
